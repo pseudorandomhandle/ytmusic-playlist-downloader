@@ -1,0 +1,2 @@
+# ytmusic-playlist-downloader
+tmp
